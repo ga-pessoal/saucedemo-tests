@@ -1,16 +1,18 @@
 # PROJETO SAUCEDEMO TESTS
 ## ARQUITETURA
-/e2e
-    /checkout.cy
-/pageobjects
-    /AppHeaderPage
-    /CartPage
-    /CheckoutPage
-    /InventoryPage
-    /LoginPage
-/reports
-    /html
-        /index.html
+```shel
+$tree
+.
+├───e2e
+│   └───standard
+├───fixtures
+├───pageobjects
+├───reports
+│   └───html
+├───screenshots
+│   └───checkout.cy.js
+└───support
+```
 
 ## SCRIPTS
 Para rodar os testes
@@ -21,3 +23,5 @@ Para abrir o dashboard do cypress
 
 ## REPORT
 Onde poderá ser consultado os resultados dos testes
+
+
