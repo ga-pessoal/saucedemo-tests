@@ -1,3 +1,7 @@
+/********************/
+/*  CHECKOUT TESTS  */
+/********************/
+
 import AppHeaderPage from "../../pageobjects/AppHeaderPage";
 import LoginPage from "../../pageobjects/LoginPage";
 import InventoryPage from "../../pageobjects/InventoryPage";
