@@ -1,0 +1,24 @@
+{
+  "name": "swaglabstests",
+  "version": "1.0.0",
+  "description": "Script para testar as funcionalidades do site Swag Labs",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress test",
+    "cypress:open":"cypress open",
+    "cypress:run":"cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ga-pessoal/swag-labs-tests.git"
+  },
+  "author": "Gabriel Mattos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ga-pessoal/swag-labs-tests/issues"
+  },
+  "homepage": "https://github.com/ga-pessoal/swag-labs-tests#readme",
+  "devDependencies": {
+    "cypress": "^10.4.0"
+  }
+}
