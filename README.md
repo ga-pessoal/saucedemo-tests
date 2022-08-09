@@ -1,4 +1,5 @@
-* ARQUITETURA
+# PROJETO SAUCEDEMO TESTS
+## ARQUITETURA
 /e2e
     /checkout.cy
 /pageobjects
@@ -10,13 +11,13 @@
 /reports
     /html
         /index.html
-        
-* SCRIPTS
+
+## SCRIPTS
 Para rodar os testes
- - npm run cypress:run
+> npm run cypress:run
 
 Para abrir o dashboard do cypress
- - npm run cypress:open
+> npm run cypress:open
 
-* REPORT
+## REPORT
 Onde poderá ser consultado os resultados dos testes
