@@ -8,10 +8,10 @@ $ npm install
 ## EXECUÇÃO
 Após entrar na pasta raíz do projeto,
 para rodar os testes use o comando:
-```npm run cypress:run```
+> ```npm run cypress:run```
 
 Para abrir o dashboard do cypress use o comando:
-```npm run cypress:open```
+> ```npm run cypress:open```
 ## REPORT
 O relatório dos testes será gerado após a execução dos mesmo e poderá ser visto dento da pasta **/cypress/reports** no arquivo **index.html**
 ## Autor:
